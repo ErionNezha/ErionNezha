@@ -63,16 +63,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erionnezha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=erionnezha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF" alt="Top languages" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=erionnezha&theme=tokyonight&hide_border=true&background=0d1117&ring=00D4FF&fire=FFC857&currStreakLabel=00D4FF" alt="GitHub streak" />
-</div>
+![GitHub followers](https://img.shields.io/github/followers/erionnezha?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=00D4FF)
+![Profile views](https://komarev.com/ghpvc/?username=erionnezha&label=Profile+views&color=00d4ff&style=for-the-badge)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erionnezha&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D4FF&line=00D4FF&point=FFC857" alt="Activity graph" />
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=erionnezha&theme=tokyonight&hide_border=true&background=0d1117&ring=00D4FF&fire=FFC857&currStreakLabel=00D4FF" alt="GitHub streak" />
+
 </div>
 
 <br/>
