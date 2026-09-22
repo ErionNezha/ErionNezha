@@ -75,13 +75,14 @@
 
 <br/>
 
-## 🐍 Watch my contributions get eaten
+## 🐍 Contribution Arena
 
 <div align="center">
+  <img src="assets/snake-header.png" alt="Contribution arena" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erionnezha/erionnezha/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erionnezha/erionnezha/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/erionnezha/erionnezha/output/github-contribution-grid-snake.svg" />
+    <img alt="Golden snake eating my contributions" src="https://raw.githubusercontent.com/erionnezha/erionnezha/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
