@@ -16,12 +16,71 @@
 
 ## ⚡ About Me
 
-- 🔭 I build **mobile apps**, **web platforms** and **brand identities** — from idea to launch
+- 💼 **Software Developer** in Tirana — I build **Android apps**, **web platforms**, **Telegram bots** and **PWAs**, from idea to launch
+- 📱 Apps live on **Google Play** · products used daily by Albanian users
 - 🌱 Currently exploring **AI-powered products** and premium digital experiences
 - 💬 Ask me about **Kotlin, Java, JavaScript, Python** and mobile development
-- 📫 Reach me at **erjonixx@proton.me**
-- 🌍 Based in **Albania** — working with clients worldwide
+- 📫 Reach me at **erionnezhaa@gmail.com**
+- 🌍 Based in **Tirana, Albania** — open to remote work and freelance projects
 - ⚡ Fun fact: I treat every pixel and every line of code like it matters
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://cmimradar.netlify.app/"><img src="https://erionnezha.netlify.app/img/p-cmimradar-v2.webp" alt="ÇmimRadar" width="100%" /></a>
+      <h3>ÇmimRadar</h3>
+      <p>Automatic daily price comparator for Albanian electronics stores — deal of the day, push alerts for price drops, price history.</p>
+      <p><a href="https://cmimradar.netlify.app/">🌐 Live</a> · <a href="https://t.me/cmimradarbot">✈️ Telegram bot</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://eriontv-sinjal.netlify.app/"><img src="https://erionnezha.netlify.app/img/p-eriontv-v2.webp" alt="ERiON TV" width="100%" /></a>
+      <h3>ERiON TV</h3>
+      <p>Albanian TV streaming app for Android — 300+ live channels, EPG guide, automatic weekly refresh.</p>
+      <p><a href="https://eriontv-sinjal.netlify.app/">🌐 Live</a> · <a href="https://erionnezha.netlify.app/eriontv-case-study.html">📖 Case study</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://lexolibra.netlify.app/"><img src="https://erionnezha.netlify.app/img/p-lexolibra-v3.webp" alt="Lexo Libra" width="100%" /></a>
+      <h3>Lexo Libra</h3>
+      <p>Albanian digital library — 700+ books, neural text-to-speech summaries, quizzes and an AI reading assistant.</p>
+      <p><a href="https://lexolibra.netlify.app/">🌐 Live</a> · <a href="https://t.me/lexolibra_bot">✈️ Telegram bot</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://henaa.netlify.app/"><img src="https://erionnezha.netlify.app/img/p-hena-v2.webp" alt="HËNA" width="100%" /></a>
+      <h3>HËNA</h3>
+      <p>Private cycle tracker, fully in Albanian — offline-first PWA, AI assistant, all data stays on the device.</p>
+      <p><a href="https://henaa.netlify.app/">🌐 Live</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://farmaciradar.netlify.app/"><img src="https://erionnezha.netlify.app/img/p-farmaciradar-v2.webp" alt="FarmaciRadar" width="100%" /></a>
+      <h3>FarmaciRadar</h3>
+      <p>Pharmacy price comparator — 25,000+ products across 5 online pharmacies, plus a map of 810 pharmacies.</p>
+      <p><a href="https://farmaciradar.netlify.app/">🌐 Live</a> · <a href="https://erionnezha.netlify.app/farmaciradar-case-study.html">📖 Case study</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://veltrix-visuals.netlify.app/"><img src="https://erionnezha.netlify.app/img/p-veltrix-v1.webp" alt="VELTRIX" width="100%" /></a>
+      <h3>VELTRIX</h3>
+      <p>AI-video portfolio — cinematic before/after sliders, a 30-second showreel and the full prompt protocol.</p>
+      <p><a href="https://veltrix-visuals.netlify.app/">🌐 Live</a></p>
+    </td>
+  </tr>
+</table>
+
+> 🤖 **Dertli Bot** — Albanian AI assistant with voice, on the web and Telegram · [Try it](https://dertlibot.netlify.app) · [Telegram](https://t.me/dertlii_bot) · [Case study](https://erionnezha.netlify.app/dertli-case-study.html) · [Code](https://github.com/ErionNezha/dertli-bot)
+
+<div align="center">
+
+[![See all projects](https://img.shields.io/badge/See_all_projects-erionnezha.netlify.app-00D4FF?style=for-the-badge&logo=netlify&logoColor=white)](https://erionnezha.netlify.app/#portfolio)
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-My_apps-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=9185020242318869652)
+
+</div>
 
 <br/>
 
@@ -95,7 +154,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erion-nezha/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/erjonixx)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=netlify&logoColor=white)](https://erionnezha.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erjonixx@proton.me)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=9185020242318869652)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erionnezhaa@gmail.com)
 
 </div>
 
